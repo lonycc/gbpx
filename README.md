@@ -11,4 +11,20 @@
 
 当前已实现模拟登录逻辑的行业继续教育平台有：湖南人才市场公共教育网；
 
+
+**广东干部培训 windows 客户端运行效果**
+
+![windows](win.png)
+
+
+**广东干部培训 linux 客户端运行效果**
+
+![linux](linux.png)
+
+
+**华医网 windows客户端运行效果**
+
+![windows](huayi_win.png)
+
+
 [详情请看](http://42.194.197.96/post/941dcea0-5fc8-4463-933d-fbc24a0cac40)
